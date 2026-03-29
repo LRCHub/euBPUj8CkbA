@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "新しい恋人達に",
   "base_artist": "back number",
-  "createdAt": "2025-12-05T12:59:13.012644Z",
+  "createdAt": "2026-03-29T05:18:16.738528Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "back number",
       "has_synced": false,
       "path": "select/pl_01_新しい恋人達に_back_number.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "新しい恋人達に",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/localdb_01_新しい恋人達に_back_number.lrc",
+      "repo_name": "euBPUj8CkbA"
     }
   ]
 }
